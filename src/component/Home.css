@@ -1,0 +1,11 @@
+#tasks {
+  background-color: azure;
+  width: 50%;
+}
+#taskList {
+  border-color: black;
+  width: 100%;
+  border-radius: 1px;
+  border-width: 3px;
+  background-color: azure;
+}
